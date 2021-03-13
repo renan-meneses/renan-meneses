@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hey 👋, I'm Renan
 
-<!--
-**renan-meneses/renan-meneses** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/renan-meneses)](https://github.com/renan-meneses)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renan-meneses-a75466ab/)](https://www.linkedin.com/in/renan-meneses-a75466ab/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/reeh_meneses)](https://twitter.com/reeh_meneses)
+[![GITLAB Badge](https://img.shields.io/badge/-GitLab-8f8d8d?style=flat-square&labelColor=8f8d8d&logo=gitlab&logoColor=white&link=https://gitlab.com/renan-meneses)](https://gitlab.com/renan-meneses)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<a href="https://pt.stackoverflow.com/users/10801833/renan-meneses-ufc">
+  <img align="left" alt="Renan StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
+</a>
+
+<br/>  
+<br/>  
+<br/>  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renan-meneses&theme=gruvbox&layout=compact&hide=html,css&langs_count=10)](https://github.com/renan-meneses?tab=repositories)
