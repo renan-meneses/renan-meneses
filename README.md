@@ -8,12 +8,9 @@
 
 
 ## I'm a Python Developer & Instructor
-- 🔭 I’m currently working as a freelancer !
-- 🌱 I’m currently learning Data Sciense & AI 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects & setup my company
-- ⚡ Fun fact: I love to draw and teach people
-
+- 🌱 I'm currently learning DevOps 
+- 🥅 2021 Goals: Contribute more to Open Source projects & setup my company
+- ⚡ Fun fact: I love teach people and to study new languages ​​and frameworks
 
 <a href="https://pt.stackoverflow.com/users/10801833/renan-meneses-ufc">
   <img align="left" alt="Renan StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
@@ -27,9 +24,11 @@
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]()
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]()
-[<img align="left" alt="Django" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" />]()
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]()
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]()
+[<img align="left" alt="TypeScipt" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />]()
+[<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />]()
+[<img align="left" alt="Django" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" />]()
 [<img align="left" alt="Python" width="26px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_128x128.png" />]()
 [<img align="left" alt="Docker" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />]()
 [<img align="left" alt="Heroku" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" />]()
@@ -40,6 +39,7 @@
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />]()
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]()
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]()
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]()
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]()
 
 <br />
