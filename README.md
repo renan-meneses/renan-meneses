@@ -7,11 +7,11 @@
 [![GITLAB Badge](https://img.shields.io/badge/-GitLab-8f8d8d?style=flat-square&labelColor=8f8d8d&logo=gitlab&logoColor=white&link=https://gitlab.com/renan-meneses)](https://gitlab.com/renan-meneses)
 
 
-## I'm a Python Developer & Instructor
+## I'm a Developer & Game Developer
 - 🌱 I'm currently learning DevOps 
 - 🥅 2021 Goals: Contribute more to Open Source projects & setup my company
 - ⚡ Fun fact: I love teach people and to study new languages ​​and frameworks
-
+- developing games
 <a href="https://pt.stackoverflow.com/users/10801833/renan-meneses-ufc">
   <img align="left" alt="Renan StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
 </a>
