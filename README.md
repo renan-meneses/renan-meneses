@@ -51,10 +51,9 @@
  
 ### Atividade e Informacoes do GITHUB:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renan-meneses&theme=gruvbox&layout=compact&hide=html,css&langs_count=10)](https://github.com/renan-meneses?tab=repositories&show_icons=true&theme=radical)
-[![Top Commit](https://github-readme-stats.vercel.app/api?username=renan-meneses&theme=merko&layout=compact&hide=html,css&langs_count=10)](https://github.com/renan-meneses?tab=repositories&show_icons=true&theme=radical)
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renan-meneses&show_icons=true&theme=radical&layout=compact&hide=html,css&langs_count=10)](https://github.com/renan-meneses?tab=repositories)
+[![Top Commit](https://github-readme-stats.vercel.app/api?username=renan-meneses&show_icons=true&theme=radical&layout=compact&hide=html,css&langs_count=10)](https://github.com/renan-meneses?tab=repositories)
 <div>
+  
   <img src="https://visitor-badge.glitch.me/badge?page_id=renan-meneses.renan-meneses" alt="visitor badge"/>
 </div>
