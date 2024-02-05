@@ -25,7 +25,7 @@
 - :student: I have a degree in `Software Analysis and Development` and I am studying `Software Engineering`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`
-, this is [MY RESUME](https://drive.google.com/file/d/1oonKSXZm5VTdxSkPBNCmKluFnRBFMsqW/view?usp=sharing). -->
+, this is [MY RESUME](https://drive.google.com/file/d/1oonKSXZm5VTdxSkPBNCmKluFnRBFMsqW/view?usp=sharing).
 <br><br>
 ## 👨🏻‍💻 Coding Profile
 
@@ -108,6 +108,10 @@
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)&nbsp;
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
 
+##### 🔬 CI
+![CircleCI](https://img.shields.io/badge/circle%20ci-e0e0e0.svg?style=for-the-badge&logo=circleci&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ##### 🥅 Other ools
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)&nbsp;
@@ -118,7 +122,6 @@
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-F9AB00?style=for-the-badge&logo=Kubernetes&color=525252)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![CircleCI](https://img.shields.io/badge/circle%20ci-e0e0e0.svg?style=for-the-badge&logo=circleci&logoColor=white)
 
 
 ### 📈 Stats
