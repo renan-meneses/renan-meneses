@@ -25,7 +25,7 @@
 - :student: I have a degree in `Software Analysis and Development` and I am studying `Software Engineering`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`
-, this is [MY RESUME](https://drive.google.com/file/d/1MxuBJnJUOa0lWIsHhjKhQnpPdK1pd6iC/view?usp=sharing).
+, this is [MY RESUME](https://drive.google.com/file/d/1vnJLCKy_PuCSsxzhRTngltDfoArcbOsO/view?usp=sharing).
 <br><br>
 ## 👨🏻‍💻 Coding Profile
 
