@@ -22,7 +22,7 @@
 <br><br>
 - :man_technologist: I’m currently working at [Company Hero](https://companyhero.com)
 
-- :technologist: I like using Software to solve every `Problem`.
+- :bug: I like using Software to solve every `Problem`.
 
 - :student: I have a degree in `Software Analysis and Development` and I am studying `Software Engineering`.
 - :nerd_face: Always `learning new things`.
