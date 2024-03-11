@@ -20,6 +20,8 @@
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 
 <br><br>
+- :man_technologist: I’m currently working at [Company Hero](https://companyhero.com)
+
 - :technologist: I like using Software to solve every `Problem`.
 
 - :student: I have a degree in `Software Analysis and Development` and I am studying `Software Engineering`.
