@@ -20,7 +20,7 @@
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 
 <br><br>
-- :man_technologist: I’m currently working at [Company Hero](https://companyhero.com)
+- :man_technologist: I’m currently working at Freelancer.
 
 - :bug: I like using Software to solve every `Problem`.
 
