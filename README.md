@@ -20,7 +20,9 @@
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 
 <br><br>
-- :man_technologist: I’m currently working at Freelancer.
+- :briefcase: Software engineer at Intmed
+
+- :technologist: I am currently accepting freelance jobs.
 
 - :bug: I like using Software to solve every `Problem`.
 
