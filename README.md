@@ -20,7 +20,7 @@
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 
 <br><br>
-- :briefcase: Software engineer at Intmed
+- :briefcase: Software engineer Full Stack
 
 - :technologist: I am currently accepting freelance jobs.
 
